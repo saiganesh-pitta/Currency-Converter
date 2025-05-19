@@ -1,2 +1,2 @@
 # Currency-Converter
-website link:https://github.com/saiganesh-pitta/Currency-Converter.git
+website link:https://saiganesh-pitta.github.io/Currency-Converter/
